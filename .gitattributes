@@ -1,2 +1,1 @@
-Reel/Display[[:space:]]Top[[:space:]]Shelf.gcode filter=lfs diff=lfs merge=lfs -text
-Box/Display[[:space:]]Top[[:space:]]Shelf.gcode filter=lfs diff=lfs merge=lfs -text
+*.gcode filter=lfs diff=lfs merge=lfs -text
